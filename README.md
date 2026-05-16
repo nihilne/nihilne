@@ -5,7 +5,7 @@
 - 🌐 You can visit my personal website: [nihilne.com](https://nihilne.com)
 
 # My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nihilne&show_icons=true&theme=onedark"/>
+<img src="./profile/stats.svg"/>
 
 # Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihilne&layout=compact&theme=onedark"/>
+<img src="./profile/languages.svg"/>
